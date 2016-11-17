@@ -1,0 +1,59 @@
+
+(function(compId){var _=null,y=true,n=false,x8='break-word',x42='rgba(154,23,31,1.00)',x64='rgb(0, 0, 0)',x67='55px',b='block',x51='btn_gp_leadership',x33='254',x55='Text2',e57='${RoundRectCopy2}',e24='${close_btn_image}',x43='rgba(255,255,255,1.00)',d='display',x14='42',x37='141px',x3='6.0.0.400',x63='Rectangle2',lf='left',x46='rgba(0,0,0,0.65098)',x35='auto',e50='${Text}',e25='${rct_revenue_background}',x7='400',x36='254px',e49='${RoundRect}',x5='22',x1='6.0.0',x9='nowrap',x20='rgba(255,255,255,0.00)',x2='5.0.0',c='color',x18='rgba(0,0,0,0)',e26='${txt_revenue}',x48='47px',e23='${close_btn_image2}',x38='10px',x47='20px',x12='19',x='text',x6='marvel, sans-serif',m='rect',x32='0px',x66='1px',x65='close_btn_image',x62='54px',x61='gp_cl_btn_revenue',x60='54',x59='55',p='px',x31='pointer',e58='${Text2}',x10='rgba(0,0,0,1.00)',e28='${txt_revenueCopy}',x54='rgba(235,153,57,1.00)',x53='41px',e22='${ttl_revenue}',e21='${ttl_leadership}',x41='rgba(121,18,25,1.00)',x39='RoundRect',x29='group',l='normal',g='image',xc='rgba(0,0,0,1)',x15='tangerine, sans-serif',x44='Text',x30='btn_gp_revenues',x52='RoundRectCopy2',x34='141',x40='rgba(192,192,192,1)',i='none',o='opacity',e27='${rct_leadership_background}';var g19='close_btn_image.png';var s4="<p style=\"margin: 0px;\">​Click to Explore</p>",s56="<p style=\"margin: 0px;\">LEADERSHIP</p>",s17="<p style=\"margin: 0px;\">Article, Section 2, Clause 5 stipulates that \"The House of Representatives shall choose their speakers and other offices.\" As noted in Module 4, the framers did not specify the role and powers of the Speaker, although the position likely stemmed from the Speaker in the British House of Commons. The colonial state legislatures were also chaired by speakers, who often clashed with royally-appointed governors. We will explore the development of the Speaker of the House in Module 7 on Institutional Development and Change.</p>",s16="<p style=\"margin: 0px;\">Leadership</p>",s45="<p style=\"margin: 0px;\">REVENUE BILLS</p>",s13="<p style=\"margin: 0px;\">Revenue Bills</p>",s11="<p style=\"margin: 0px;\">​Article I, Section 7, Clause 1: \"All bills for raising Revenue shall originate in the House of Representatives; but the Senate may propose or concur with amendments as on other Bills.\" This provision was debated at length during the Constitutional Convention, beginning on June 13 and lasting for several months. The debate partly reflected contrasting interests between the larger and smaller states. It also involved the principle of giving power over money bills to the House because it was closest to the people, and concerns over the Senate's ability to check the power of the House. For instance, Madison objected to a proposal by Randolph that the House not only originate spending and tax bills but also be able to block the Senate from amending them, on the grounds that the Senate should be allowed to check the House. Ultimately, a committee reached a compromise limiting the provision only to revenue bills (rather than all \"money\" bills). The last phrase of clause one, \"but the Senate may propose or concur with amendments in other bills,\" was taken from the Constitution of the Commonwealth of Massachusetts. The motion was approved on September 8, 1787.</p>";var im='images/',aud='media/',vid='media/',js='js/',fonts={'marvel, sans-serif':'<script src=\"http://use.edgefonts.net/marvel:i4,n7,n4,i7:all.js\"></script>','tangerine, sans-serif':'<script src=\"http://use.edgefonts.net/tangerine:n4,n7:all.js\"></script>'},opts={'gAudioPreloadPreference':'auto','gVideoPreloadPreference':'auto'},resources=[],scripts=[],symbols={"stage":{v:x1,mv:x2,b:x3,stf:i,cg:i,rI:n,cn:{dom:[{id:'sym_revenues',symbolName:'sym_revenues',t:m,r:['22px','131px','254','141','auto','auto']},{id:'sym_leadership',symbolName:'sym_leadership',t:m,r:['298','131','254','141','auto','auto']},{id:'ttl_explore',t:x,r:['230px','320px','auto','auto','auto','auto'],text:s4,align:"left",n:[x6,[x5,p],"rgba(0,0,0,1.00)",x7,i,l,x8,x9],ts:["","","","",i]},{id:'rct_revenue_background',v:b,t:m,r:['575px','0px','575px','425px','auto','auto'],o:'0',f:[x10],s:[0,"rgb(0, 0, 0)",i]},{id:'txt_revenue',v:b,t:x,r:['590px','62px','543px','353px','auto','auto'],o:'0',text:s11,align:"left",n:[x6,[x12,p],"rgba(235,153,57,1.00)",x7,i,l,x8,l],ts:["","","","",i]},{id:'ttl_revenue',v:b,t:x,r:['590px','11px','auto','auto','auto','auto'],o:'0',text:s13,align:"left",n:[x15,[x14,p],"rgba(255,255,255,1.00)",x7,i,l,x8,x9],ts:["","","","",i]},{id:'rct_leadership_background',v:b,t:m,r:['575px','0px','575px','425px','auto','auto'],o:'0',f:[x10],s:[0,"rgb(0, 0, 0)",i]},{id:'ttl_leadership',v:b,t:x,r:['590px','11px','auto','auto','auto','auto'],o:'0',text:s16,align:"left",n:[x15,[x14,p],"rgba(255,255,255,1.00)",x7,i,l,x8,x9],ts:["","","","",i]},{id:'txt_revenueCopy',v:b,t:x,r:['590px','62px','543px','353px','auto','auto'],o:'0',text:s17,align:"left",n:[x6,[x12,p],"rgba(235,153,57,1.00)",x7,i,l,x8,l],ts:["","","","",i]},{id:'close_btn_image',v:b,t:g,r:['1123px','0px','54px','54px','auto','auto'],cu:'pointer',f:[x18,im+g19,'0px','0px']},{id:'close_btn_image2',v:b,t:g,r:['1133px','0px','54px','54px','auto','auto'],cu:'pointer',f:[x18,im+g19,'0px','0px']}],style:{'${Stage}':{isStage:true,r:['null','null','575px','425px','auto','auto'],overflow:'hidden',f:[x20]}}},tt:{d:4572,a:y,l:{"start":0,"revenue":1000,"leadership":3000},data:[["eid68",o,3000,1500,"easeInOutCubic",e21,'0','1'],["eid45",o,1000,1500,"easeInOutCubic",e22,'0','1'],["eid80",d,4572,0,"linear",e23,b,i],["eid77",d,2585,0,"linear",e24,b,i],["eid76",lf,1000,1500,"linear",e24,'1123px','521px'],["eid52",d,2585,0,"easeInOutCubic",e25,b,i],["eid34",lf,1000,1500,"easeInOutCubic",e26,'590px','15px'],["eid51",d,2585,0,"easeInOutCubic",e26,b,i],["eid66",o,3000,1500,"easeInOutCubic",e27,'0','1'],["eid70",d,4572,0,"easeInOutCubic",e28,b,i],["eid79",lf,3000,1500,"linear",e23,'1133px','521px'],["eid62",o,3000,1500,"easeInOutCubic",e28,'0','1'],["eid36",lf,1000,1500,"easeInOutCubic",e22,'590px','15px'],["eid30",lf,1000,1500,"easeInOutCubic",e25,'575px','0px'],["eid46",o,1000,1500,"easeInOutCubic",e25,'0','1'],["eid54",lf,3000,1500,"easeInOutCubic",e28,'590px','15px'],["eid58",lf,3000,1500,"easeInOutCubic",e27,'575px','0px'],["eid50",d,2585,0,"easeInOutCubic",e22,b,i],["eid60",lf,3000,1500,"easeInOutCubic",e21,'590px','15px'],["eid72",d,4572,0,"easeInOutCubic",e27,b,i],["eid48",o,1000,1500,"easeInOutCubic",e26,'0','1'],["eid71",d,4572,0,"easeInOutCubic",e21,b,i]]}},"sym_revenues":{v:x1,mv:x2,b:x3,stf:i,cg:i,rI:n,cn:{dom:[{t:x29,id:x30,cu:x31,r:[x32,x32,x33,x34,x35,x35],c:[{r:[x32,x32,x36,x37,x35,x35],br:[x38,x38,x38,x38],id:x39,s:[0,xc,i],t:m,f:[x40,[270,[[x41,0],[x42,100]]]]},{n:[x6,[40,p],x43,l,i,'',x8,x9],t:x,id:x44,text:s45,textShadow:[x46,3,3,5],r:[x47,x48,x35,x35,x35,x35]}]}],style:{'${symbolSelector}':{r:[_,_,x36,x37]}}},tt:{d:1125,a:y,l:{"revenue_rollover":500,"revenue_rollout":1000},data:[["eid6","background-image",500,125,"linear",e49,[270,[['rgba(154,23,31,1.00)',0],['rgba(121,18,25,1.00)',100]]],[270,[['rgba(121,18,25,1.00)',0],['rgba(154,23,31,1.00)',100]]]],["eid8","background-image",1000,125,"linear",e49,[270,[['rgba(121,18,25,1.00)',0],['rgba(154,22,31,1.00)',100]]],[270,[['rgba(154,23,31,1.00)',0],['rgba(121,18,25,1.00)',100]]]],["eid5",c,500,125,"linear",e50,'rgba(235,153,57,1)','rgba(255,255,255,1.00)'],["eid7",c,1000,125,"linear",e50,'rgba(255,255,255,1)','rgba(235,153,57,1.00)']]}},"sym_leadership":{v:x1,mv:x2,b:x3,stf:i,cg:i,rI:n,cn:{dom:[{t:x29,id:x51,cu:x31,r:[x32,x32,x33,x34,x35,x35],c:[{r:[x32,x32,x36,x37,x35,x35],br:[x38,x38,x38,x38],id:x52,s:[0,xc,i],t:m,f:[x40,[270,[[x42,0],[x41,100]]]]},{t:x,align:lf,ts:['','','','',i],r:[x53,x48,x35,x35,x35,x35],n:[x6,[40,p],x54,x7,i,l,x8,x9],id:x55,textShadow:[x46,3,3,5],text:s56}]}],style:{'${symbolSelector}':{r:[_,_,x36,x37]}}},tt:{d:875,a:y,l:{"leadership_rollover":500,"leadership_rollout":750},data:[["eid10","background-image",500,125,"linear",e57,[270,[['rgba(154,23,31,1.00)',0],['rgba(121,18,25,1.00)',100]]],[270,[['rgba(121,18,25,1.00)',0],['rgba(154,23,31,1.00)',100]]]],["eid12","background-image",750,125,"linear",e57,[270,[['rgba(121,18,25,1.00)',0],['rgba(154,22,31,1.00)',100]]],[270,[['rgba(154,23,31,1.00)',0],['rgba(121,18,25,1.00)',100]]]],["eid9",c,500,125,"linear",e58,'rgba(235,153,57,1)','rgba(255,255,255,1.00)'],["eid11",c,750,125,"linear",e58,'rgba(255,255,255,1)','rgba(235,153,57,1.00)']]}},"sym_close":{v:x1,mv:x2,b:x3,stf:i,cg:i,rI:n,cn:{dom:[{r:[x32,x32,x59,x60,x35,x35],id:x61,cu:x31,t:x29,c:[{r:[x32,x32,x62,x62,x35,x35],id:x63,s:[0,x64,i],t:m,f:[xc,[270,[[x42,0],[x41,100]]]]},{t:g,id:x65,r:[x66,x32,x62,x62,x35,x35],f:[x18,im+g19,x32,x32]}]}],style:{'${symbolSelector}':{r:[_,_,x67,x62]}}},tt:{d:0,a:y,data:[]}}};AdobeEdge.registerCompositionDefn(compId,symbols,fonts,scripts,resources,opts);})("EDGE-4001616");
+(function($,Edge,compId){var Composition=Edge.Composition,Symbol=Edge.Symbol;Edge.registerEventBinding(compId,function($){
+//Edge symbol: 'stage'
+(function(symbolName){Symbol.bindElementAction(compId,symbolName,"${sym_revenues}","mouseover",function(sym,e){sym.getSymbol("sym_revenues").play("revenues_rollover");});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${sym_revenues}","mouseout",function(sym,e){sym.getSymbol("sym_revenues").play("revenues_rollout");});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${sym_revenues}","click",function(sym,e){sym.play("revenues");});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${sym_leadership}","mouseover",function(sym,e){sym.getSymbol("sym_leadership").play("leadership_rollover");});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${sym_leadership}","mouseout",function(sym,e){sym.getSymbol("sym_leadership").play("leadership_rollout");});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${sym_leadership}","click",function(sym,e){sym.play("leadership");});
+//Edge binding end
+Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",2500,function(sym,e){sym.stop();});
+//Edge binding end
+Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",4500,function(sym,e){sym.stop();});
+//Edge binding end
+Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",0,function(sym,e){sym.stop();});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${close_btn_image}","click",function(sym,e){sym.play("start");});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${close_btn_image2}","click",function(sym,e){sym.play("start");});
+//Edge binding end
+})("stage");
+//Edge symbol end:'stage'
+
+//=========================================================
+
+//Edge symbol: 'sym_revenues'
+(function(symbolName){Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",0,function(sym,e){sym.stop();});
+//Edge binding end
+Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",625,function(sym,e){sym.stop();});
+//Edge binding end
+Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",1125,function(sym,e){sym.stop();});
+//Edge binding end
+})("sym_revenues");
+//Edge symbol end:'sym_revenues'
+
+//=========================================================
+
+//Edge symbol: 'sym_leadership'
+(function(symbolName){Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",0,function(sym,e){sym.stop();});
+//Edge binding end
+Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",625,function(sym,e){sym.stop();});
+//Edge binding end
+Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",875,function(sym,e){sym.stop();});
+//Edge binding end
+})("sym_leadership");
+//Edge symbol end:'sym_leadership'
+
+//=========================================================
+
+//Edge symbol: 'sym_close'
+(function(symbolName){})("sym_close");
+//Edge symbol end:'sym_close'
+})})(AdobeEdge.$,AdobeEdge,"EDGE-4001616");

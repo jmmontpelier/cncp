@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" id="tag:adobe.com,2012-03:edge:oam:compid:EDGE-22669569" name="4.2_congressional_leadership" version="1">
+
+  <description type="text/html"><![CDATA[Widget Exported from Adobe Edge (V1.DW.Edge)]]></description>
+  <category name="Adobe Edge Animation"/>
+
+  <remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+
+  <icon src="images/icon.png" width="933" height="422" />
+
+  <require type="other" src="4.2_congressional_leadership.html" />
+  <require type="other" src="images/Icon" />
+
+  <require type="javascript" src="4.2_congressional_leadership_edge.js" />
+  <require type="javascript" src="edge_includes/edge.6.0.0.min.js" />
+
+  <require type="image" src="images/click_me.png" />
+  <require type="image" src="images/close_btn_image.png" />
+  <require type="image" src="images/house_leadership.png" />
+  <require type="image" src="images/icon.png" />
+  <require type="image" src="images/Poster.png" />
+
+  <require type="folder" src="edge_includes" />
+  <require type="folder" src="images" />
+
+
+  <content><![CDATA[
+    <div class="EDGE-22669569"></div>
+  ]]></content>
+   
+  <properties name="Properties">
+    <property name="default-width" defaultValue="933" hidden="true"/>
+    <property name="default-height" defaultValue="422" hidden="true"/>
+    <property name="resizable" defaultValue="false" hidden="true"/>				
+		<property name="centering" defaultValue="none" hidden="true"/>				
+		<property name="scaling" defaultValue="none" hidden="true"/>
+    <property name="html-page" defaultValue="4.2_congressional_leadership.html" hidden="true"/>
+  </properties>
+
+</widget>
